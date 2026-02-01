@@ -33,7 +33,6 @@ Currently working on:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=todorkrushkov&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=todorkrushkov&layout=compact&theme=dark)
 
 ---
